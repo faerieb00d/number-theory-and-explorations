@@ -85,15 +85,7 @@ from numtheory import solve_linear_diophantine
 x0, y0, dx, dy, g = solve_linear_diophantine(6, 10, 4)
 ```
 
-## Roadmap ideas
 
-Good next explorations to add as the project grows:
-
-- [ ] Miller–Rabin probabilistic primality test for large numbers
-- [ ] Quadratic residues and the Legendre/Jacobi symbol
-- [ ] Pell's equation solver
-- [ ] Euler's totient function and multiplicative functions
-- [ ] Visualizations (e.g. Ulam spiral, aliquot sequence graphs)
 
 ## License
 
